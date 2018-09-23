@@ -1,0 +1,12 @@
+﻿Software Secure
+---
+
+PCI SS ใช้ในการ
+
+Given - ให้อะไรมาบ้าง
+When - ได้มายังไง
+Then - ได้อะไรมาบ้าง
+
+Love you so much
+Need you every time!!
+Want you Yeh!!!!!!!!
